@@ -1,0 +1,10 @@
+[package]
+name = "cre8t1ve/opencloud"
+description = "Roblox's OpenCloud module"
+version = "0.0.0"
+license = "MIT"
+authors = ["Roblox"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+homepage = "https://create.roblox.com/store/asset/16584168800/Open-Cloud"
+repository = "https://github.com/cre8t1ve/opencloud"
